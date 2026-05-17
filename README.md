@@ -1,4 +1,3 @@
-# Java OOP Weekly Practice Work
 
 # Java OOP Weekly Practice Work
 
