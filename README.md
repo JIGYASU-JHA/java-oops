@@ -1,6 +1,8 @@
 # Java OOP Weekly Practice Work
 
-This repository contains my Java Object-Oriented Programming laboratory work and weekly practice programs.
+# Java OOP Weekly Practice Work
+
+This repository contains my Java Object-Oriented Programming laboratory work and weekly practice programs developed during coursework and self-practice.
 
 ## Topics Covered
 - Classes and Objects
